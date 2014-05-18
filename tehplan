@@ -1,0 +1,31 @@
+could fire base be used to cache api calls from jambase?
+
+main page init:
+set location (and/or find location)
+
+main page:
+set times
+
+list of upcoming shows
+popular venues
+
+venue page:
+list of upcoming shows
+
+settings page:
+change location
+
+user management =/.
+	FireBase!
+
+show page:
+show information (hooks to play music if everything else works, use hackday sponsor)
+show comments
+	reddit style voting
+
+who's playing now?
+
+
+axwave
+	what's playing now
+	did your favorite song already get played?

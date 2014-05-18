@@ -1,0 +1,1159 @@
+{
+    "Info": {
+        "TotalResults": 1648,
+        "PageNumber": 0,
+        "Message": null
+    },
+    "Events": [{
+        "Id": 2259030,
+        "Date": "2014-05-17T17:30:00",
+        "Venue": {
+            "Id": 28878,
+            "Name": "Biscuits and Blues",
+            "Address": "401 Mason Street",
+            "City": "San Francisco",
+            "State": "California",
+            "StateCode": "CA",
+            "Country": "US",
+            "CountryCode": "US",
+            "ZipCode": "94102",
+            "Url": "http://www.biscuitsandblues.com/",
+            "Latitude": 37.787229,
+            "Longitude": -122.409782
+        },
+        "Artists": [{
+            "Id": 24072,
+            "Name": "Lavay Smith & Her Red Hot Skillet Lickers"
+        }],
+        "TicketUrl": "http://www.eventbrite.com/e/lavay-smith-her-red-hot-skillet-lickers-730pm-show-tickets-11043747145?aff=jambase"
+    }, {
+        "Id": 2200755,
+        "Date": "2014-05-17T19:00:00",
+        "Venue": {
+            "Id": 71720,
+            "Name": "Nikko Hotel",
+            "Address": "222 Mason St",
+            "City": "San Francisco",
+            "State": "California",
+            "StateCode": "CA",
+            "Country": "US",
+            "CountryCode": "US",
+            "ZipCode": "94102",
+            "Url": "http://www.hotelnikkosf.com",
+            "Latitude": 37.785609,
+            "Longitude": -122.409427
+        },
+        "Artists": [{
+            "Id": 27917,
+            "Name": "Spencer Day"
+        }],
+        "TicketUrl": ""
+    }, {
+        "Id": 2266440,
+        "Date": "2014-05-17T19:30:00",
+        "Venue": {
+            "Id": 120404,
+            "Name": "Brick and Mortar Music Hall",
+            "Address": "1710 Mission Street",
+            "City": "San Francisco",
+            "State": "California",
+            "StateCode": "CA",
+            "Country": "US",
+            "CountryCode": "US",
+            "ZipCode": "94103",
+            "Url": "http://www.brickandmortarmusic.com/",
+            "Latitude": 37.7696961,
+            "Longitude": -122.4201611
+        },
+        "Artists": [{
+            "Id": 96569,
+            "Name": "Gabrielle Aplin"
+        }, {
+            "Id": 105991,
+            "Name": "Meatbodies"
+        }],
+        "TicketUrl": "http://www.shareasale.com/r.cfm?u=460319&b=234786&m=27601&afftrack=&urllink=www.ticketfly.com/purchase/event/542245/tfly?utm_medium=api"
+    }, {
+        "Id": 2270036,
+        "Date": "2014-05-17T20:00:00",
+        "Venue": {
+            "Id": 24446,
+            "Name": "924 Gilman",
+            "Address": "924 Gilman Street",
+            "City": "Berkeley",
+            "State": "California",
+            "StateCode": "CA",
+            "Country": "US",
+            "CountryCode": "US",
+            "ZipCode": "94710",
+            "Url": "http://www.924gilman.org",
+            "Latitude": 37.879751,
+            "Longitude": -122.299922
+        },
+        "Artists": [{
+            "Id": 94154,
+            "Name": "JE double F"
+        }],
+        "TicketUrl": ""
+    }, {
+        "Id": 2232701,
+        "Date": "2014-05-17T20:00:00",
+        "Venue": {
+            "Id": 2767,
+            "Name": "Jupiter",
+            "Address": "2181 Shattuck Ave.",
+            "City": "Berkeley",
+            "State": "California",
+            "StateCode": "CA",
+            "Country": "US",
+            "CountryCode": "US",
+            "ZipCode": "94701",
+            "Url": "http://www.jupiterbeer.com",
+            "Latitude": 37.86973,
+            "Longitude": -122.268321
+        },
+        "Artists": [{
+            "Id": 73803,
+            "Name": "Harley White Jr."
+        }],
+        "TicketUrl": ""
+    }, {
+        "Id": 2269712,
+        "Date": "2014-05-17T21:00:00",
+        "Venue": {
+            "Id": 116142,
+            "Name": "Public Works SF",
+            "Address": "161 Erie St.",
+            "City": "San Francisco",
+            "State": "California",
+            "StateCode": "CA",
+            "Country": "US",
+            "CountryCode": "US",
+            "ZipCode": "94103",
+            "Url": "http://www.publicsf.com/",
+            "Latitude": 37.7690583,
+            "Longitude": -122.4192869
+        },
+        "Artists": [{
+            "Id": 25873,
+            "Name": "Mozaic"
+        }, {
+            "Id": 89821,
+            "Name": "Jackmaster"
+        }],
+        "TicketUrl": "http://www.residentadvisor.net/event.aspx?559576"
+    }, {
+        "Id": 2261592,
+        "Date": "2014-05-17T21:00:00",
+        "Venue": {
+            "Id": 99785,
+            "Name": "The New Parish Music Hall",
+            "Address": "579 - 18th Street",
+            "City": "Oakland",
+            "State": "California",
+            "StateCode": "CA",
+            "Country": "US",
+            "CountryCode": "US",
+            "ZipCode": "94601",
+            "Url": "http://www.thenewparish.com/",
+            "Latitude": 37.808,
+            "Longitude": -122.273
+        },
+        "Artists": [{
+            "Id": 19673,
+            "Name": "Two Gallants"
+        }],
+        "TicketUrl": "http://www.shareasale.com/r.cfm?u=460319&b=234786&m=27601&afftrack=&urllink=www.ticketfly.com/purchase/event/535337/tfly?utm_medium=api"
+    }, {
+        "Id": 2261544,
+        "Date": "2014-05-17T21:00:00",
+        "Venue": {
+            "Id": 89816,
+            "Name": "The Connecticut Yankee",
+            "Address": "100 Connecticut St",
+            "City": "San Francisco",
+            "State": "California",
+            "StateCode": "CA",
+            "Country": "US",
+            "CountryCode": "US",
+            "ZipCode": "94107",
+            "Url": "http://www.theyankee.com/",
+            "Latitude": 37.7655172,
+            "Longitude": -122.397659
+        },
+        "Artists": [{
+            "Id": 88580,
+            "Name": "Luvplanet"
+        }],
+        "TicketUrl": "http://www.shareasale.com/r.cfm?u=460319&b=234786&m=27601&afftrack=&urllink=www.ticketfly.com/purchase/event/529639/tfly?utm_medium=api"
+    }, {
+        "Id": 2272427,
+        "Date": "2014-05-17T21:00:00",
+        "Venue": {
+            "Id": 15627,
+            "Name": "19 Broadway",
+            "Address": "19 Broadway Blvd ",
+            "City": "Fairfax",
+            "State": "California",
+            "StateCode": "CA",
+            "Country": "US",
+            "CountryCode": "US",
+            "ZipCode": "94930",
+            "Url": "http://www.19broadway.com",
+            "Latitude": 37.989023,
+            "Longitude": -122.591591
+        },
+        "Artists": [{
+            "Id": 97867,
+            "Name": "Soul Mechanix"
+        }],
+        "TicketUrl": "http://www.shareasale.com/r.cfm?u=460319&b=234786&m=27601&afftrack=&urllink=www.ticketfly.com/purchase/event/547955/tfly?utm_medium=api"
+    }, {
+        "Id": 2273160,
+        "Date": "2014-05-17T21:00:00",
+        "Venue": {
+            "Id": 31468,
+            "Name": "The Independent",
+            "Address": "628 Divisadero St",
+            "City": "San Francisco",
+            "State": "California",
+            "StateCode": "CA",
+            "Country": "US",
+            "CountryCode": "US",
+            "ZipCode": "94117",
+            "Url": "http://www.theindependentsf.com",
+            "Latitude": 37.775286,
+            "Longitude": -122.437611
+        },
+        "Artists": [{
+            "Id": 12825,
+            "Name": "Future Rock"
+        }, {
+            "Id": 76449,
+            "Name": "Gladkill"
+        }, {
+            "Id": 88983,
+            "Name": "HoverKraft"
+        }],
+        "TicketUrl": "http://www.shareasale.com/r.cfm?u=460319&b=234786&m=27601&afftrack=&urllink=www.ticketfly.com/purchase/event/549559/tfly?utm_medium=api"
+    }, {
+        "Id": 2229569,
+        "Date": "2014-05-17T21:00:00",
+        "Venue": {
+            "Id": 29222,
+            "Name": "Mezzanine",
+            "Address": "444 Jessie St",
+            "City": "San Francisco",
+            "State": "California",
+            "StateCode": "CA",
+            "Country": "US",
+            "CountryCode": "US",
+            "ZipCode": "94103",
+            "Url": "http://www.mezzaninesf.com/",
+            "Latitude": 37.782219,
+            "Longitude": -122.408194
+        },
+        "Artists": [{
+            "Id": 47838,
+            "Name": "Health"
+        }, {
+            "Id": 88111,
+            "Name": "Purity Ring"
+        }],
+        "TicketUrl": "http://www.ticketfly.com/purchase/event/506241"
+    }, {
+        "Id": 2289516,
+        "Date": "2014-05-17T21:00:00",
+        "Venue": {
+            "Id": 8913,
+            "Name": "Ruby Skye",
+            "Address": "420 Mason",
+            "City": "San Francisco",
+            "State": "California",
+            "StateCode": "CA",
+            "Country": "US",
+            "CountryCode": "US",
+            "ZipCode": "94102",
+            "Url": "http://www.rubyskye.com",
+            "Latitude": 37.787315,
+            "Longitude": -122.409782
+        },
+        "Artists": [{
+            "Id": 97387,
+            "Name": "Adrian Lux"
+        }],
+        "TicketUrl": "http://www.eventbrite.com/e/adrian-lux-tickets-11486948773?aff=jambase"
+    }, {
+        "Id": 2243717,
+        "Date": "2014-05-17T21:00:00",
+        "Venue": {
+            "Id": 2087,
+            "Name": "Bimbo's 365 Club",
+            "Address": "1025 Columbus Av",
+            "City": "San Francisco",
+            "State": "California",
+            "StateCode": "CA",
+            "Country": "US",
+            "CountryCode": "US",
+            "ZipCode": "94133",
+            "Url": "http://www.bimbos365club.com",
+            "Latitude": 37.80392,
+            "Longitude": -122.41507
+        },
+        "Artists": [{
+            "Id": 27195,
+            "Name": "Tainted Love"
+        }, {
+            "Id": 99390,
+            "Name": "Super Huey"
+        }],
+        "TicketUrl": "http://www.shareasale.com/r.cfm?u=460319&b=234786&m=27601&afftrack=&urllink=www.ticketfly.com/purchase/event/515917/tfly?utm_medium=api"
+    }, {
+        "Id": 2255969,
+        "Date": "2014-05-17T21:00:00",
+        "Venue": {
+            "Id": 727,
+            "Name": "The Fillmore",
+            "Address": "1805 Geary Blvd",
+            "City": "San Francisco",
+            "State": "California",
+            "StateCode": "CA",
+            "Country": "US",
+            "CountryCode": "US",
+            "ZipCode": "94115",
+            "Url": "http://www.thefillmore.com",
+            "Latitude": 37.784229,
+            "Longitude": -122.433092
+        },
+        "Artists": [{
+            "Id": 90964,
+            "Name": "Kishi Bashi"
+        }, {
+            "Id": 99845,
+            "Name": "Plume Giant"
+        }],
+        "TicketUrl": "http://www.awin1.com/awclick.php?awinmid=4103&awinaffid=139685&platform=tm&p=http%3a%2f%2fwww.ticketmaster.com%2fpartner_redirect%3furl%3dhttp%3a%2f%2fconcerts.livenation.com%2fevent%2f1C004C71D84373A3"
+    }, {
+        "Id": 2256985,
+        "Date": "2014-05-17T21:00:00",
+        "Venue": {
+            "Id": 125806,
+            "Name": "Monarch",
+            "Address": "101 Sixth St",
+            "City": "San Francisco",
+            "State": "California",
+            "StateCode": "CA",
+            "Country": "US",
+            "CountryCode": "US",
+            "ZipCode": "94103",
+            "Url": "",
+            "Latitude": 37.7809924,
+            "Longitude": -122.4085148
+        },
+        "Artists": [{
+            "Id": 44163,
+            "Name": "Fort Knox Five"
+        }, {
+            "Id": 56205,
+            "Name": "divaDanielle"
+        }],
+        "TicketUrl": ""
+    }, {
+        "Id": 2244802,
+        "Date": "2014-05-17T21:00:00",
+        "Venue": {
+            "Id": 132421,
+            "Name": "The Chapel",
+            "Address": "777 Valencia St",
+            "City": "San Francisco",
+            "State": "California",
+            "StateCode": "CA",
+            "Country": "US",
+            "CountryCode": "US",
+            "ZipCode": "94110",
+            "Url": "",
+            "Latitude": 37.7606,
+            "Longitude": -122.421
+        },
+        "Artists": [{
+            "Id": 103444,
+            "Name": "Golden Void"
+        }, {
+            "Id": 104984,
+            "Name": "A Minor Forest"
+        }],
+        "TicketUrl": "http://www.shareasale.com/r.cfm?u=460319&b=234786&m=27601&afftrack=&urllink=www.ticketfly.com/purchase/event/519455/tfly?utm_medium=api"
+    }, {
+        "Id": 2297210,
+        "Date": "2014-05-17T21:00:00",
+        "Venue": {
+            "Id": 135996,
+            "Name": "Neck of the Woods",
+            "Address": "406 Clement St.",
+            "City": "San Francisco",
+            "State": "California",
+            "StateCode": "CA",
+            "Country": "US",
+            "CountryCode": "US",
+            "ZipCode": "94118",
+            "Url": "http://www.neckofthewoodssf.com/",
+            "Latitude": 37.7831143,
+            "Longitude": -122.4637331
+        },
+        "Artists": [{
+            "Id": 80905,
+            "Name": "Ducktails"
+        }],
+        "TicketUrl": "https://www.getwillcall.com/woohoo"
+    }, {
+        "Id": 2271192,
+        "Date": "2014-05-17T21:30:00",
+        "Venue": {
+            "Id": 133311,
+            "Name": "Tupelo",
+            "Address": "1337 Grant Street",
+            "City": "San Francisco",
+            "State": "California",
+            "StateCode": "CA",
+            "Country": "US",
+            "CountryCode": "US",
+            "ZipCode": "94133",
+            "Url": "http://www.tupelosf.com",
+            "Latitude": 37.7992104,
+            "Longitude": -122.4073368
+        },
+        "Artists": [{
+            "Id": 93684,
+            "Name": "Daria 'Shani' Johnson"
+        }],
+        "TicketUrl": ""
+    }, {
+        "Id": 2217331,
+        "Date": "2014-05-18T00:00:00",
+        "Venue": {
+            "Id": 70617,
+            "Name": "Yoshi's San Francisco",
+            "Address": "1330 Fillmore Street ",
+            "City": "San Francisco",
+            "State": "California",
+            "StateCode": "CA",
+            "Country": "US",
+            "CountryCode": "US",
+            "ZipCode": "94117",
+            "Url": "http://www.yoshis.com/sanfrancisco",
+            "Latitude": 37.781666,
+            "Longitude": -122.432313
+        },
+        "Artists": [{
+            "Id": 83607,
+            "Name": "George Lacson"
+        }],
+        "TicketUrl": "http://sfyoshis.inticketing.com/events/395739/THE-GEORGE-LACSON-PROJECT--7-00PM?refnug=jam"
+    }, {
+        "Id": 2296491,
+        "Date": "2014-05-18T00:00:00",
+        "Venue": {
+            "Id": 53005,
+            "Name": "Savanna Jazz",
+            "Address": "2937 Mission St.",
+            "City": "San Francisco",
+            "State": "California",
+            "StateCode": "CA",
+            "Country": "US",
+            "CountryCode": "US",
+            "ZipCode": "94101",
+            "Url": "http://www.savannajazz.com/",
+            "Latitude": 37.750113,
+            "Longitude": -122.418302
+        },
+        "Artists": [{
+            "Id": 104967,
+            "Name": "David Byrd  and Byrds of a Feather Jazz Ensemble"
+        }],
+        "TicketUrl": ""
+    }, {
+        "Id": 2267413,
+        "Date": "2014-05-18T00:00:00",
+        "Venue": {
+            "Id": 120404,
+            "Name": "Brick and Mortar Music Hall",
+            "Address": "1710 Mission Street",
+            "City": "San Francisco",
+            "State": "California",
+            "StateCode": "CA",
+            "Country": "US",
+            "CountryCode": "US",
+            "ZipCode": "94103",
+            "Url": "http://www.brickandmortarmusic.com/",
+            "Latitude": 37.7696961,
+            "Longitude": -122.4201611
+        },
+        "Artists": [{
+            "Id": 93717,
+            "Name": "La Cuneta Son Machín"
+        }],
+        "TicketUrl": ""
+    }, {
+        "Id": 2266663,
+        "Date": "2014-05-18T00:00:00",
+        "Venue": {
+            "Id": 105657,
+            "Name": "Jacks Cannery Bar",
+            "Address": "441 Jefferson Street",
+            "City": "San Francisco",
+            "State": "California",
+            "StateCode": "CA",
+            "Country": "US",
+            "CountryCode": "US",
+            "ZipCode": "94133",
+            "Url": "http://www.jackscannerybar.com/Jacks/Welcome.html",
+            "Latitude": 37.8077,
+            "Longitude": -122.42
+        },
+        "Artists": [{
+            "Id": 25982,
+            "Name": "Sammy Patrick"
+        }],
+        "TicketUrl": ""
+    }, {
+        "Id": 2270679,
+        "Date": "2014-05-18T00:00:00",
+        "Venue": {
+            "Id": 15706,
+            "Name": "Hemlock Tavern",
+            "Address": "1131 Polk Street",
+            "City": "San Francisco",
+            "State": "California",
+            "StateCode": "CA",
+            "Country": "US",
+            "CountryCode": "US",
+            "ZipCode": "94109",
+            "Url": "http://www.hemlocktavern.com/",
+            "Latitude": 37.787429,
+            "Longitude": -122.419982
+        },
+        "Artists": [{
+            "Id": 4195,
+            "Name": "The Buttons"
+        }, {
+            "Id": 49566,
+            "Name": "The Safes"
+        }],
+        "TicketUrl": ""
+    }, {
+        "Id": 2301503,
+        "Date": "2014-05-18T00:00:00",
+        "Venue": {
+            "Id": 2891,
+            "Name": "Bottom of the Hill",
+            "Address": "1233 17th St.",
+            "City": "San Francisco",
+            "State": "California",
+            "StateCode": "CA",
+            "Country": "US",
+            "CountryCode": "US",
+            "ZipCode": "94107",
+            "Url": "http://www.bottomofthehill.com",
+            "Latitude": 37.765229,
+            "Longitude": -122.396175
+        },
+        "Artists": [{
+            "Id": 103048,
+            "Name": "The Inciters"
+        }],
+        "TicketUrl": ""
+    }, {
+        "Id": 2236669,
+        "Date": "2014-05-18T00:00:00",
+        "Venue": {
+            "Id": 5017,
+            "Name": "El Rio",
+            "Address": "3158 Mission Street ",
+            "City": "San Francisco",
+            "State": "California",
+            "StateCode": "CA",
+            "Country": "US",
+            "CountryCode": "US",
+            "ZipCode": "94111",
+            "Url": "",
+            "Latitude": 37.74588,
+            "Longitude": -122.419682
+        },
+        "Artists": [{
+            "Id": 104084,
+            "Name": "White Chocolate Funk"
+        }],
+        "TicketUrl": ""
+    }, {
+        "Id": 2291733,
+        "Date": "2014-05-18T00:00:00",
+        "Venue": {
+            "Id": 3206,
+            "Name": "Yoshi's Oakland",
+            "Address": "510 Embarcadero West",
+            "City": "Oakland",
+            "State": "California",
+            "StateCode": "CA",
+            "Country": "US",
+            "CountryCode": "US",
+            "ZipCode": "94607",
+            "Url": "http://www.yoshis.com",
+            "Latitude": 37.796511,
+            "Longitude": -122.27853
+        },
+        "Artists": [{
+            "Id": 32794,
+            "Name": "Allen Toussaint"
+        }],
+        "TicketUrl": "http://yoshis.inticketing.com/evlist.php?events=search&searchstr=Allen+Toussaint&smonth=0&sday=0&syear=0&vstate=0"
+    }, {
+        "Id": 2200318,
+        "Date": "2014-05-18T00:00:00",
+        "Venue": {
+            "Id": 5796,
+            "Name": "Boom Boom Room",
+            "Address": "1601 Fillmore",
+            "City": "San Francisco",
+            "State": "California",
+            "StateCode": "CA",
+            "Country": "US",
+            "CountryCode": "US",
+            "ZipCode": "94115",
+            "Url": "http://www.boomboomblues.com",
+            "Latitude": 37.784228,
+            "Longitude": -122.432845
+        },
+        "Artists": [{
+            "Id": 28906,
+            "Name": "DJ Kevvy Kev"
+        }],
+        "TicketUrl": "http://www.boomboomtickets.com/events/370434/Return-of-the-Cypher--Freestyle-Hip-Hop--DJ-Kevvy-Kev--Bottom-Hammer--FREE-Party-?refnug=jam"
+    }, {
+        "Id": 2229322,
+        "Date": "2014-05-18T00:00:00",
+        "Venue": {
+            "Id": 133311,
+            "Name": "Tupelo",
+            "Address": "1337 Grant Street",
+            "City": "San Francisco",
+            "State": "California",
+            "StateCode": "CA",
+            "Country": "US",
+            "CountryCode": "US",
+            "ZipCode": "94133",
+            "Url": "http://www.tupelosf.com",
+            "Latitude": 37.7992104,
+            "Longitude": -122.4073368
+        },
+        "Artists": [{
+            "Id": 60544,
+            "Name": "The GoldDiggers"
+        }, {
+            "Id": 103026,
+            "Name": "Rocketship Rocketship"
+        }],
+        "TicketUrl": ""
+    }, {
+        "Id": 2295059,
+        "Date": "2014-05-18T00:00:00",
+        "Venue": {
+            "Id": 140172,
+            "Name": "Eli's Mile High Club ",
+            "Address": "3629 Martin Luther King Jr Way",
+            "City": "Oakland",
+            "State": "California",
+            "StateCode": "CA",
+            "Country": "US",
+            "CountryCode": "US",
+            "ZipCode": "94609",
+            "Url": "",
+            "Latitude": 0.0,
+            "Longitude": 0.0
+        },
+        "Artists": [{
+            "Id": 102652,
+            "Name": "Meat Market"
+        }],
+        "TicketUrl": ""
+    }, {
+        "Id": 2269952,
+        "Date": "2014-05-18T00:00:00",
+        "Venue": {
+            "Id": 146303,
+            "Name": "Lincoln Park",
+            "Address": "199 University Avenue",
+            "City": "Los Altos",
+            "State": "California",
+            "StateCode": "CA",
+            "Country": "US",
+            "CountryCode": "US",
+            "ZipCode": "94022",
+            "Url": "",
+            "Latitude": 0.0,
+            "Longitude": 0.0
+        },
+        "Artists": [{
+            "Id": 8843,
+            "Name": "The Groovy Judy Band"
+        }],
+        "TicketUrl": ""
+    }, {
+        "Id": 2188426,
+        "Date": "2014-05-18T08:00:00",
+        "Venue": {
+            "Id": 133069,
+            "Name": "SFJAZZ Center",
+            "Address": "Franklin and Fell St",
+            "City": "San Francisco",
+            "State": "California",
+            "StateCode": "CA",
+            "Country": "US",
+            "CountryCode": "US",
+            "ZipCode": "94102",
+            "Url": "http://www.sfjazz.org/center",
+            "Latitude": 37.7762,
+            "Longitude": -122.421
+        },
+        "Artists": [{
+            "Id": 8615,
+            "Name": "Herbie Hancock"
+        }, {
+            "Id": 13310,
+            "Name": "Marcus Miller"
+        }, {
+            "Id": 29680,
+            "Name": "Vinnie Colaiuta"
+        }, {
+            "Id": 45817,
+            "Name": "Lionel Loueke "
+        }],
+        "TicketUrl": ""
+    }, {
+        "Id": 2184472,
+        "Date": "2014-05-18T11:00:00",
+        "Venue": {
+            "Id": 126378,
+            "Name": "Sweetwater Music Hall",
+            "Address": "19 Corte Madera Avenue",
+            "City": "Mill Valley",
+            "State": "California",
+            "StateCode": "CA",
+            "Country": "US",
+            "CountryCode": "US",
+            "ZipCode": "94941",
+            "Url": "http://www.sweetwatermusichall.com/",
+            "Latitude": 37.907,
+            "Longitude": -122.548
+        },
+        "Artists": [{
+            "Id": 15343,
+            "Name": "Chris Haugen"
+        }, {
+            "Id": 92177,
+            "Name": "Dirty Cello"
+        }],
+        "TicketUrl": "http://www.shareasale.com/r.cfm?u=460319&b=234786&m=27601&afftrack=&urllink=www.ticketfly.com/purchase/event/517503/tfly?utm_medium=api"
+    }, {
+        "Id": 2301222,
+        "Date": "2014-05-18T14:00:00",
+        "Venue": {
+            "Id": 14566,
+            "Name": "Bourbon Street",
+            "Address": "2765 Clayton Road",
+            "City": "Concord",
+            "State": "California",
+            "StateCode": "CA",
+            "Country": "US",
+            "CountryCode": "US",
+            "ZipCode": "94518",
+            "Url": "",
+            "Latitude": 37.974686,
+            "Longitude": -122.026952
+        },
+        "Artists": [{
+            "Id": 73804,
+            "Name": "Lars Behrenroth"
+        }],
+        "TicketUrl": ""
+    }, {
+        "Id": 2257264,
+        "Date": "2014-05-18T17:30:00",
+        "Venue": {
+            "Id": 28878,
+            "Name": "Biscuits and Blues",
+            "Address": "401 Mason Street",
+            "City": "San Francisco",
+            "State": "California",
+            "StateCode": "CA",
+            "Country": "US",
+            "CountryCode": "US",
+            "ZipCode": "94102",
+            "Url": "http://www.biscuitsandblues.com/",
+            "Latitude": 37.787229,
+            "Longitude": -122.409782
+        },
+        "Artists": [{
+            "Id": 103333,
+            "Name": "Jason King Band"
+        }],
+        "TicketUrl": "http://www.eventbrite.com/e/jason-king-band-930pm-show-tickets-10962941453?aff=jambase"
+    }, {
+        "Id": 2289349,
+        "Date": "2014-05-18T18:00:00",
+        "Venue": {
+            "Id": 17249,
+            "Name": "Marin Center Lagoon Park",
+            "Address": "Avenue of the Flags",
+            "City": "San Rafael",
+            "State": "California",
+            "StateCode": "CA",
+            "Country": "US",
+            "CountryCode": "US",
+            "ZipCode": "94901",
+            "Url": "",
+            "Latitude": 0.0,
+            "Longitude": 0.0
+        },
+        "Artists": [{
+            "Id": 38582,
+            "Name": "Alexa Weber Morales"
+        }],
+        "TicketUrl": ""
+    }, {
+        "Id": 2271676,
+        "Date": "2014-05-18T20:00:00",
+        "Venue": {
+            "Id": 31468,
+            "Name": "The Independent",
+            "Address": "628 Divisadero St",
+            "City": "San Francisco",
+            "State": "California",
+            "StateCode": "CA",
+            "Country": "US",
+            "CountryCode": "US",
+            "ZipCode": "94117",
+            "Url": "http://www.theindependentsf.com",
+            "Latitude": 37.775286,
+            "Longitude": -122.437611
+        },
+        "Artists": [{
+            "Id": 58485,
+            "Name": "Jesse Boykins III"
+        }],
+        "TicketUrl": "http://www.shareasale.com/r.cfm?u=460319&b=234786&m=27601&afftrack=&urllink=www.ticketfly.com/purchase/event/547327/tfly?utm_medium=api"
+    }, {
+        "Id": 2231309,
+        "Date": "2014-05-18T20:00:00",
+        "Venue": {
+            "Id": 30310,
+            "Name": "Hotel Utah",
+            "Address": "500 4th Street",
+            "City": "San Francisco",
+            "State": "California",
+            "StateCode": "CA",
+            "Country": "US",
+            "CountryCode": "US",
+            "ZipCode": "94107",
+            "Url": "http://www.hotelutah.com",
+            "Latitude": 37.7795,
+            "Longitude": -122.398
+        },
+        "Artists": [{
+            "Id": 105315,
+            "Name": "22 Kings"
+        }],
+        "TicketUrl": "http://www.shareasale.com/r.cfm?u=460319&b=234786&m=27601&afftrack=&urllink=www.ticketfly.com/purchase/event/467717/tfly?utm_medium=api"
+    }, {
+        "Id": 2233787,
+        "Date": "2014-05-18T20:00:00",
+        "Venue": {
+            "Id": 727,
+            "Name": "The Fillmore",
+            "Address": "1805 Geary Blvd",
+            "City": "San Francisco",
+            "State": "California",
+            "StateCode": "CA",
+            "Country": "US",
+            "CountryCode": "US",
+            "ZipCode": "94115",
+            "Url": "http://www.thefillmore.com",
+            "Latitude": 37.784229,
+            "Longitude": -122.433092
+        },
+        "Artists": [{
+            "Id": 93217,
+            "Name": "Iggy Azalea"
+        }],
+        "TicketUrl": "http://www.awin1.com/awclick.php?awinmid=4103&awinaffid=139685&platform=tm&p=http%3a%2f%2fwww.ticketmaster.com%2fpartner_redirect%3furl%3dhttp%3a%2f%2fconcerts.livenation.com%2fevent%2f1C004C4EBE9794F5"
+    }, {
+        "Id": 2282481,
+        "Date": "2014-05-18T20:00:00",
+        "Venue": {
+            "Id": 129407,
+            "Name": "The Sound Room ",
+            "Address": "2147 Broadway",
+            "City": "Oakland",
+            "State": "California",
+            "StateCode": "CA",
+            "Country": "US",
+            "CountryCode": "US",
+            "ZipCode": "94612",
+            "Url": "",
+            "Latitude": 0.0,
+            "Longitude": 0.0
+        },
+        "Artists": [{
+            "Id": 84031,
+            "Name": "Grupo Falso Baiano"
+        }],
+        "TicketUrl": "http://www.brownpapertickets.com/event/666471/ref/25530"
+    }, {
+        "Id": 2259827,
+        "Date": "2014-05-18T20:00:00",
+        "Venue": {
+            "Id": 146044,
+            "Name": "Kroc Center Theatre ",
+            "Address": "586 E Wigeon Way",
+            "City": "Suisun City",
+            "State": "California",
+            "StateCode": "CA",
+            "Country": "US",
+            "CountryCode": "US",
+            "ZipCode": "94585",
+            "Url": "",
+            "Latitude": 0.0,
+            "Longitude": 0.0
+        },
+        "Artists": [{
+            "Id": 78843,
+            "Name": "Amber Snider"
+        }],
+        "TicketUrl": ""
+    }, {
+        "Id": 2293373,
+        "Date": "2014-05-18T20:30:00",
+        "Venue": {
+            "Id": 132421,
+            "Name": "The Chapel",
+            "Address": "777 Valencia St",
+            "City": "San Francisco",
+            "State": "California",
+            "StateCode": "CA",
+            "Country": "US",
+            "CountryCode": "US",
+            "ZipCode": "94110",
+            "Url": "",
+            "Latitude": 37.7606,
+            "Longitude": -122.421
+        },
+        "Artists": [{
+            "Id": 51428,
+            "Name": "Conspiracy Of Venus"
+        }, {
+            "Id": 90152,
+            "Name": "The Dustbowl Revival"
+        }],
+        "TicketUrl": "http://www.shareasale.com/r.cfm?u=460319&b=234786&m=27601&afftrack=&urllink=www.ticketfly.com/purchase/event/570397/tfly?utm_medium=api"
+    }, {
+        "Id": 2263052,
+        "Date": "2014-05-19T00:00:00",
+        "Venue": {
+            "Id": 49711,
+            "Name": "The Uptown Nightclub",
+            "Address": "1928 Telegraph",
+            "City": "Oakland",
+            "State": "California",
+            "StateCode": "CA",
+            "Country": "US",
+            "CountryCode": "US",
+            "ZipCode": "94601",
+            "Url": "http://www.uptownnightclub.com",
+            "Latitude": 37.809051,
+            "Longitude": -122.270316
+        },
+        "Artists": [{
+            "Id": 105186,
+            "Name": "Rasa Vitalia"
+        }],
+        "TicketUrl": ""
+    }, {
+        "Id": 2267703,
+        "Date": "2014-05-19T00:00:00",
+        "Venue": {
+            "Id": 70617,
+            "Name": "Yoshi's San Francisco",
+            "Address": "1330 Fillmore Street ",
+            "City": "San Francisco",
+            "State": "California",
+            "StateCode": "CA",
+            "Country": "US",
+            "CountryCode": "US",
+            "ZipCode": "94117",
+            "Url": "http://www.yoshis.com/sanfrancisco",
+            "Latitude": 37.781666,
+            "Longitude": -122.432313
+        },
+        "Artists": [{
+            "Id": 35976,
+            "Name": "Stephen Stills"
+        }],
+        "TicketUrl": "http://sfyoshis.inticketing.com/events/410401/An-Evening-With-STEPHEN-STILLS--8PM?refnug=jam"
+    }, {
+        "Id": 2146015,
+        "Date": "2014-05-19T00:00:00",
+        "Venue": {
+            "Id": 10272,
+            "Name": "Davies Symphony Hall",
+            "Address": "201 Van Ness Avenue",
+            "City": "San Francisco",
+            "State": "California",
+            "StateCode": "CA",
+            "Country": "US",
+            "CountryCode": "US",
+            "ZipCode": "94102",
+            "Url": "http://www.sfsymphony.org/templates/hall_over.asp?nodeid=96",
+            "Latitude": 37.777429,
+            "Longitude": -122.419582
+        },
+        "Artists": [{
+            "Id": 3642,
+            "Name": "Ben Folds "
+        }],
+        "TicketUrl": "http://tix.concertmaps.com/benfolds/"
+    }, {
+        "Id": 2295073,
+        "Date": "2014-05-19T00:00:00",
+        "Venue": {
+            "Id": 27619,
+            "Name": "Make-Out Room",
+            "Address": "3225 22nd Street",
+            "City": "San Francisco",
+            "State": "California",
+            "StateCode": "CA",
+            "Country": "US",
+            "CountryCode": "US",
+            "ZipCode": "94110",
+            "Url": "http://www.makeoutroom.com",
+            "Latitude": 37.75548,
+            "Longitude": -122.419382
+        },
+        "Artists": [{
+            "Id": 76014,
+            "Name": "Melissa Phillips"
+        }],
+        "TicketUrl": ""
+    }, {
+        "Id": 2241161,
+        "Date": "2014-05-19T00:00:00",
+        "Venue": {
+            "Id": 3206,
+            "Name": "Yoshi's Oakland",
+            "Address": "510 Embarcadero West",
+            "City": "Oakland",
+            "State": "California",
+            "StateCode": "CA",
+            "Country": "US",
+            "CountryCode": "US",
+            "ZipCode": "94607",
+            "Url": "http://www.yoshis.com",
+            "Latitude": 37.796511,
+            "Longitude": -122.27853
+        },
+        "Artists": [{
+            "Id": 97957,
+            "Name": "El Cerrito High School Jazz Ensembles"
+        }],
+        "TicketUrl": "http://yoshis.inticketing.com/events/404718/7pm--EL-CERRITO-HIGH-SCHOOL-JAZZ-ENSEMBLES?refnug=jam"
+    }, {
+        "Id": 2252890,
+        "Date": "2014-05-19T00:00:00",
+        "Venue": {
+            "Id": 7172,
+            "Name": "Amnesia",
+            "Address": "853 Valencia",
+            "City": "San Francisco",
+            "State": "California",
+            "StateCode": "CA",
+            "Country": "US",
+            "CountryCode": "US",
+            "ZipCode": "94110",
+            "Url": "http://www.amnesiathebar.com/",
+            "Latitude": 37.759298,
+            "Longitude": -122.421462
+        },
+        "Artists": [{
+            "Id": 58006,
+            "Name": "Windy Hill"
+        }],
+        "TicketUrl": ""
+    }, {
+        "Id": 2254027,
+        "Date": "2014-05-19T00:00:00",
+        "Venue": {
+            "Id": 88,
+            "Name": "Elbo Room",
+            "Address": "647 Valencia St",
+            "City": "San Francisco",
+            "State": "California",
+            "StateCode": "CA",
+            "Country": "US",
+            "CountryCode": "US",
+            "ZipCode": "94110",
+            "Url": "http://www.elbo.com/",
+            "Latitude": 37.762207,
+            "Longitude": -122.421754
+        },
+        "Artists": [{
+            "Id": 90897,
+            "Name": "Floor"
+        }],
+        "TicketUrl": ""
+    }, {
+        "Id": 2210904,
+        "Date": "2014-05-19T20:00:00",
+        "Venue": {
+            "Id": 86502,
+            "Name": "Fox Theater",
+            "Address": "1807 Telegraph Avenue",
+            "City": "Oakland",
+            "State": "California",
+            "StateCode": "CA",
+            "Country": "US",
+            "CountryCode": "US",
+            "ZipCode": "94612",
+            "Url": "http://www.thefoxoakland.com",
+            "Latitude": 37.8077119,
+            "Longitude": -122.2700897
+        },
+        "Artists": [{
+            "Id": 1921,
+            "Name": "Nickel Creek"
+        }, {
+            "Id": 81734,
+            "Name": "The Secret Sisters"
+        }],
+        "TicketUrl": "http://www.ticketmaster.com/event/1C004C3DFA099D6C?brand=anotherplanet&camefrom=CFC_ANOTHERPLANET"
+    }, {
+        "Id": 2219408,
+        "Date": "2014-05-19T20:00:00",
+        "Venue": {
+            "Id": 41336,
+            "Name": "Rickshaw Stop",
+            "Address": "155 Fell St.",
+            "City": "San Francisco",
+            "State": "California",
+            "StateCode": "CA",
+            "Country": "US",
+            "CountryCode": "US",
+            "ZipCode": "94103",
+            "Url": "http://www.rickshawstop.com/",
+            "Latitude": 37.776319,
+            "Longitude": -122.420319
+        },
+        "Artists": [{
+            "Id": 43255,
+            "Name": "The Cave Singers"
+        }],
+        "TicketUrl": "http://www.shareasale.com/r.cfm?u=460319&b=234786&m=27601&afftrack=&urllink=www.ticketfly.com/purchase/event/490787/tfly?utm_medium=api"
+    }]
+}

@@ -1,0 +1,24 @@
+.showlist {
+	font-family: 'Oswald', sans-serif;
+}
+
+.profilepic {
+	border: 1px solid #FFF;
+	border-radius: 6px;
+	float: left;
+	margin-right: 25px;
+	position: relative;
+	top: -100px;
+
+	width: 200px; height: 200px;
+}
+
+#coverphoto {
+	background-attachment: scroll, scroll;
+    background-clip: border-box, border-box;
+    background-color: rgba(0, 0, 0, 0);
+    background-origin: padding-box, padding-box;
+    background-position: center 25%;
+    background-repeat: repeat, no-repeat;
+    background-size: cover;
+}
